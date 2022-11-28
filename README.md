@@ -1,10 +1,10 @@
 ## Text preprocessing and linguistic information extraction.
 
-^(written during computational linguistics course)^
+<sup>(written during computational linguistics course)<sup>
 
 ---
 
-_Code contains following parts:_
+__Code contains following parts:__
 
 - preprocessing function
 - web page parsing to collect text data
